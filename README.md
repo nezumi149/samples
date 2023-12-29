@@ -7,6 +7,13 @@ Inspired by common uses of speech recognition in popular operating systems, this
 * 'Scroll' is a mouse wheel scroll
 * Finally, 'Punch Card n' indicates a use within the MTGA app - click on the nth playable (highlighted) card in the app.
 
+## Scope
+
+This project is currently a personal project / proof of concept.  Some ideas for future work:
+1. Go wider - implement more functions
+2. Go deeper - implement better options for these functions
+3. Work on robustness of speech recognition (for example, learning voices)
+
 ## Dependencies
 
 Libaries used: pygsheets, speech_recognition, time, datetime, pywin32, pyautogui.  Additionally, users will need a google API authorization (referenced as client_secret.json)
