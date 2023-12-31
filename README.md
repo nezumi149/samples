@@ -7,6 +7,8 @@ Inspired by common uses of speech recognition in popular operating systems, this
 * 'Scroll' is a mouse wheel scroll
 * Finally, 'Punch Card n' indicates a use within the MTGA app - click on the nth playable (highlighted) card in the app.
 
+The core functionality of this script is currently housed in gsheetssandbox.py, where an infinite loop listens for commands.
+
 ## Scope
 
 This project is currently a personal project / proof of concept.  Some ideas for future work:
